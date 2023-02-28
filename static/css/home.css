@@ -9,9 +9,9 @@
 :root{--fa-style-family-brands:"Font Awesome 6 Brands";--fa-font-brands:normal 400 1em/1 "Font Awesome 6 Brands";}
 :root{--fa-font-regular:normal 400 1em/1 "Font Awesome 6 Free";}
 :root{--fa-style-family-classic:"Font Awesome 6 Free";--fa-font-solid:normal 900 1em/1 "Font Awesome 6 Free";}
-html,body{background-color:#282828;}
+html,body{background-color:#00FFFF;}
 header{width:100%;}
-footer{background:#eb3349;display:flex;flex-wrap:nowrap;align-content:center;justify-content:center;align-items:center;height:50px;}
+footer{background:#00FFFF;display:flex;flex-wrap:nowrap;align-content:center;justify-content:center;align-items:center;height:50px;}
 footer div{text-align:center;}
 footer a{color:white;font-family:'Montserrat', sans-serif;font-size:11px;font-weight:500;}
 @media only screen and (min-width: 400px){
@@ -21,7 +21,7 @@ footer a{font-size:13px;}
 footer a{font-size:15px;}
 }
 #head-div{background:linear-gradient(to right, #eb3349 40%, #f45c43);width:100%;text-align:center;padding-top:25px;height:86px;margin:auto;font-family:'Roboto', sans-serif;font-weight:500;font-size:x-large;color:white;}
-h1{color:#eb3349;font-family:'Poppins', sans-serif;}
+h1{color:#00FFFF;font-family:'Poppins', sans-serif;}
 i{margin:auto;margin-right:10px;}
 a{text-decoration:none;}
 *{box-sizing:border-box;margin:0px;padding:0px;}

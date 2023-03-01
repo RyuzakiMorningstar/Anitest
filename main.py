@@ -25,7 +25,7 @@ app = Flask(__name__)
 @app.route("/favicon.ico")
 def favicon():
     return redirect(
-        "https://cdn.jsdelivr.net/gh/TechShreyash/AnimeDex@main/static/img/favicon.ico"
+        "https://cdn.jsdelivr.net/gh/TechShreyash/AnimeDex@main/static/img/"
     )
 
 
